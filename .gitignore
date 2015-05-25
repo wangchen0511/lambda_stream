@@ -1,0 +1,14 @@
+.classpath
+.settings
+.project
+target
+*.jar
+*.war
+*.rar
+*.tar
+*.gz
+*.zip
+*.txt
+coverity
+test-output
+artifacts
